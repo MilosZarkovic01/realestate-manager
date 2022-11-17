@@ -99,6 +99,7 @@ if(isset($_POST['unesi'])){
         <li><a href="add.php" class="page-scroll">Add New</a></li>
         <li><a href="change.php" class="page-scroll">Change</a></li>
         <li><a href="delete.php" class="page-scroll">Delete</a></li>
+		<li><a href="view.php" class="page-scroll">View</a></li>
       </ul>
     </div>
     <!-- /.navbar-collapse --> 
